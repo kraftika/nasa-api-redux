@@ -1,7 +1,4 @@
-# react-scaf
+# Call nasa api using redux library
+# Stask tehnology 
+### ReactJS, redux, webpack
 
-Grab the files if you need React project fast. It contains
-
-### Webpack
-### Babel
-### React
