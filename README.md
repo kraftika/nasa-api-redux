@@ -1,4 +1,2 @@
-# Call nasa api using redux library
-# Stask tehnology 
-### ReactJS, redux, webpack
+# Call nasa api using redux library - Stack tehnology (ReactJS, redux, webpack)
 

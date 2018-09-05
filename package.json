@@ -1,5 +1,5 @@
 {
-  "name": "webpack-react-babel",
+  "name": "call-nasa-api-using-redux",
   "devDependencies": {
     "axios": "^0.18.0",
     "babel-core": "^6.26.0",
