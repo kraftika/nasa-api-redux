@@ -1,0 +1,38 @@
+body {
+    background: #e0d7d5;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    margin: 0;
+    padding: 30px;
+}
+
+p {
+    font-size: 12px;
+    padding: 10px 50px;
+    letter-spacing: 0.66px;
+    line-height: 2;
+}
+
+span {
+    font-size: 10px;
+    color: #311b92;
+    margin: 20px 0;
+}
+
+.astronomy-card {
+	max-width: 75vw;
+	margin: 50px auto;
+	display: flex;
+	background-color: #FFF;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+    box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
+}
+
+.astronomy-title {
+    margin: 25px 0;
+    padding: 15px 45px;
+    font-size: 18px;
+    color: #6200ea;
+}
